@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'gildaspk:autoform-medium',
-  version: '0.0.5',
+  name: 'mozfet:autoform-medium',
+  version: '1.0.0',
   summary: "Medium editor for AutoForm",
   description: "Medium editor for AutoForm",
   git: "http://github.com/djhi/meteor-autoform-medium.git"
@@ -11,7 +11,7 @@ Package.onUse(function(api) {
 
   api.use([
     'templating',
-    'aldeed:autoform@5.3.0',
+    'aldeed:autoform@6.0.0',
     'mediumeditor:mediumeditor@5.2.0',
   ], 'client');
 
