@@ -1,3 +1,7 @@
+# 2.0.5
+
+Upgraded to AutoForm 6.2
+
 # 0.0.5
 Switch to `mediumeditor:mediumeditor`, official package.
 Added a template specific to materialize as using quickForm or quickField would
